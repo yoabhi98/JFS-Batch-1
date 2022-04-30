@@ -1,3 +1,0 @@
-message=Hello Test Environment
-user.role=test
-server.port=9090
